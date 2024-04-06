@@ -1,8 +1,8 @@
-package com.example.gerimedicaassignment.service;
+package com.example.assignment.service;
 
 
-import com.example.gerimedicaassignment.entity.CsvRecord;
-import com.example.gerimedicaassignment.repository.CsvRecordRepository;
+import com.example.assignment.entity.CsvRecord;
+import com.example.assignment.repository.CsvRecordRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

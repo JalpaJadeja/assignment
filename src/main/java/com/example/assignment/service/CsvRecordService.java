@@ -1,7 +1,7 @@
-package com.example.gerimedicaassignment.service;
+package com.example.assignment.service;
 
 
-import com.example.gerimedicaassignment.entity.CsvRecord;
+import com.example.assignment.entity.CsvRecord;
 
 import java.util.List;
 

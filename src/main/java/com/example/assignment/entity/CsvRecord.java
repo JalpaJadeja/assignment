@@ -1,4 +1,4 @@
-package com.example.gerimedicaassignment.entity;
+package com.example.assignment.entity;
 
 import com.opencsv.bean.CsvBindByName;
 import jakarta.persistence.Entity;

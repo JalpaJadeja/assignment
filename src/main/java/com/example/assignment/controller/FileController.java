@@ -1,8 +1,8 @@
-package com.example.gerimedicaassignment.controller;
+package com.example.assignment.controller;
 
-import com.example.gerimedicaassignment.entity.CsvRecord;
+import com.example.assignment.entity.CsvRecord;
 
-import com.example.gerimedicaassignment.service.CsvRecordService;
+import com.example.assignment.service.CsvRecordService;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 import org.springframework.beans.factory.annotation.Autowired;

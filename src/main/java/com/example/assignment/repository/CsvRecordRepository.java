@@ -1,6 +1,6 @@
-package com.example.gerimedicaassignment.repository;
+package com.example.assignment.repository;
 
-import com.example.gerimedicaassignment.entity.CsvRecord;
+import com.example.assignment.entity.CsvRecord;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

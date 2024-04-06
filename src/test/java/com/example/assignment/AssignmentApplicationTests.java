@@ -1,10 +1,10 @@
-package com.example.gerimedicaassignment;
+package com.example.assignment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GerimedicaAssignmentApplicationTests {
+class AssignmentApplicationTests {
 
   @Test
   void contextLoads() {
