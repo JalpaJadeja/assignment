@@ -1,7 +1,7 @@
 
-1. Unzip "gerimedica-assignment.zip" file
+1. Unzip "assignment.zip" file
 2. Load unzipped project in to IDE
-3. Run "GerimedicaAssignmentApplication.java" file
+3. Run "AssignmentApplication.java" file
 4. Go to any Web API access platform
 5. call "localhost:{port}/upload" endpoint to upload csv file (upload file in multipart tab)
 6. call "localhost:{port}/records" endpoint to get all records
