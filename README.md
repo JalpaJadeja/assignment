@@ -1,5 +1,5 @@
 
-1. Unzip "assignment.zip" file
+1. Unzip "assignment.zip" file OR Clone repository
 2. Load unzipped project in to IDE
 3. Run "AssignmentApplication.java" file
 4. Go to any Web API access platform
